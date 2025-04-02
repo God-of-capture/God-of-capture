@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Aerwok](https://www.aerwok.com/path-to-your-logo.png)](https://www.aerwok.com)
+**Co-founder** [Aerwok.com](https://www.aerwok.com)
 
 <a href="https://linkedin.com/in/amrit-bakshi-ab2a0a253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrit-bakshi-ab2a0a253" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/27494655/amrit-bakshi?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/27494655/amrit-bakshi?tab=profile" height="30" width="40" /></a>
